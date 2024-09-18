@@ -8,13 +8,13 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": "",
+            "value": "4297842",
             "required": true
         },
         
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": "",
+            "value": "bd495db96a52b1d9381657704e629b95",
             "required": true
         },
         
@@ -50,7 +50,7 @@
         
         "DATABASE_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "",
+            "value": "mongodb+srv://sadie:sadie@sadiemol.serz1yo.mongodb.net/?retryWrites=true&w=majority&appName=sadiemol",
             "required": true
         },
         
